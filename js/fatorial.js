@@ -1,6 +1,7 @@
 (function () {
     'use strict';
-    //Resolução do fatorial sem recursividade
+
+    //Resolução do funcional com recursão de cauda.
 
     function factorial(number) {
      var product = 1;
